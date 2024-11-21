@@ -1,0 +1,23 @@
+{
+    "name": "tron-flynn-theme",
+    "displayName": "Tron - Flynn Theme",
+    "description": "A custom dark theme inspired by Tron.",
+    "version": "0.0.1",
+    "publisher": "Javier Pozo Miranda",
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Tron - Flynn",
+          "uiTheme": "vs-dark",
+          "path": "./themes/tron-flynn-color-theme.json"
+        }
+      ]
+    }
+  }
+  
