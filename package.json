@@ -2,7 +2,7 @@
   "name": "tron-flynn-theme",
   "displayName": "Tron - Flynn Theme",
   "description": "A custom dark theme inspired by Tron.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "Javier Pozo Miranda",
   "engines": {
     "vscode": "^1.0.0"
@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/JPM2002/tron-flynn-theme"
   },
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
