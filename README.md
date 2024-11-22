@@ -35,8 +35,8 @@ A sleek and futuristic dark theme inspired by the aesthetics of Tron Legacy. Thi
 Below are some previews of the Tron Legacy theme in action:
 
 1. **Code View**  
-   ![Code Screenshot](.assets/image.png)
 
+   ![Code Screenshot](./assets/image.png)
 
 
 ---
