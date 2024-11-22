@@ -29,6 +29,15 @@ A sleek and futuristic dark theme inspired by the aesthetics of Tron Legacy. Thi
 ---
 
 
+## **Preview**
+
+### **Screenshots**
+Below are some previews of the Tron Legacy theme in action:
+
+1. **Code View**  
+   ![Code Screenshot](.assets/image.png)
+
+
 
 ---
 
@@ -62,7 +71,7 @@ A sleek and futuristic dark theme inspired by the aesthetics of Tron Legacy. Thi
 
 ## **Contributing**
 Feel free to contribute or raise issues in the GitHub repository:  
-[GitHub Repository](https://github.com/your-repository-link)
+[GitHub Repository](https://github.dev/JPM2002/Tron-Theme-VS)
 
 ---
 
@@ -73,6 +82,5 @@ This theme is licensed under the MIT License. See the [LICENSE](LICENSE.md) file
 
 ## **Feedback**
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub or contact me at:  
-[Your Email Address](mailto:jdp5958@psu.edu
-)
+[Your Email Address](mailto:jdp5958@psu.edu)
 
