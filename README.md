@@ -2,7 +2,7 @@
 # **Tron Legacy Theme**
 
 A sleek and futuristic dark theme inspired by the aesthetics of Tron Legacy. This theme emphasizes readability, modern UI colors, and detailed syntax highlighting across various programming languages.
-
+Try it, it won't disappoint.
 
 ---
 
